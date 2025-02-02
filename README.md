@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a final-year Computer Science & Engineering student at
 ## 📌 Featured Projects
 - **🌍 Ozone Prediction with ML** – Multi-model approach to predict O₃ levels based on atmospheric data.
 - **📈 A web App using RSA Encryption** – A Library Management System using RSA encryption.
-- **🤖 LMS system ** – An LMS system which calculates students performance based on Lessons and many customizable Automated tests.
+- **🤖 LMS system** – An LMS system which calculates students performance based on Lessons and many customizable Automated tests.
 
 ## 📫 Get in Touch
 - 📧 Email: abirwebcodee@gmail.com
